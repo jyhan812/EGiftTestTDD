@@ -9,5 +9,17 @@ namespace MatchParenthesis
     public class Match
     {
 
+        public bool DoMatch(string input)
+        {
+            bool isMatched = false;
+
+
+
+
+
+
+            return isMatched;
+        }
+
     }
 }
