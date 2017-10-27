@@ -9,6 +9,7 @@ namespace EGiftTestTDD
         [TestMethod]
         public void TestMethod1()
         {
+
         }
     }
 }
