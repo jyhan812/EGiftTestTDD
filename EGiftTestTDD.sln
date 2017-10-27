@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EGiftTestTDD", "EGiftTestTDD\EGiftTestTDD.csproj", "{AF41A66B-1A0B-4AC4-A2C9-40C6A195E3D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatchParenthesis", "MatchParenthesis\MatchParenthesis.csproj", "{947092F1-4922-4FBD-A996-A28796EC2E9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF41A66B-1A0B-4AC4-A2C9-40C6A195E3D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF41A66B-1A0B-4AC4-A2C9-40C6A195E3D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF41A66B-1A0B-4AC4-A2C9-40C6A195E3D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF41A66B-1A0B-4AC4-A2C9-40C6A195E3D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{947092F1-4922-4FBD-A996-A28796EC2E9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{947092F1-4922-4FBD-A996-A28796EC2E9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{947092F1-4922-4FBD-A996-A28796EC2E9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{947092F1-4922-4FBD-A996-A28796EC2E9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {610C73CF-5E64-40A6-AF28-7D9649EFAD79}
+	EndGlobalSection
+EndGlobal
