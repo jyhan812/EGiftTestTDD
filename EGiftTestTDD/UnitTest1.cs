@@ -1,5 +1,6 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
+using MatchParenthesis;
 
 namespace EGiftTestTDD
 {
@@ -9,7 +10,7 @@ namespace EGiftTestTDD
         [TestMethod]
         public void TestMethod1()
         {
-
+            Match mathclass = new Match();
         }
     }
 }
